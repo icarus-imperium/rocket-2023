@@ -24,9 +24,8 @@ Engineers (left to right in picture):
 1. [Bhuvan](https://github.com/Bhuv4nVam5i) / __Бхуван Вамси__: research and calculation of center of pressure, design of ring module.
 1. [Reza](https://github.com/rezaaliasgarirenani) / __Реза Алиасгари__: launch pad research-design, manufacturing, lubrication. 
 
+### Post on official [VK page](https://vk.com/astech_mipt?z=photo-17906_457246723%2Falbum-17906_00) of MIPT Department of Aerospace
 ![Post on official VK page of MIPT Department of Aerospace](gallery/05-post-on-official-vk-page-of-mipt-department-of-aerospace.jpg)
-Post on official [VK page](https://vk.com/astech_mipt?z=photo-17906_457246723%2Falbum-17906_00) of MIPT Department of Aerospace
-
 
 ## Notes
 ### Innovation
@@ -42,49 +41,43 @@ Post on official [VK page](https://vk.com/astech_mipt?z=photo-17906_457246723%2F
 - __Removal of ring module__: it is difficult to put the the ring module and the tail slider hole parallel to the axis of the rocket. The ring module is to be removed. 
 
 ## The rocket
+### Model display of rocket at launch site
 ![Model display of rocket at launch site](gallery/06-model-display-of-rocket-at-launch-site.jpg)
 
-Model display of rocket at launch site
-
+### OpenRocket simulation results
 ![OpenRocket simulation results](open-rocket/simulation.jpg)
 
-OpenRocket simulation results
-
+### Cost analysis and distribution table
 ![Cost analysis chart](cost/cost.png)
 
-Cost analysis and distribution table
 
-## Love for Rocket 
+## Love for Rocket
+### Love thy rocket more than thy female
 ![Love thy rocket more than thy female](gallery/07-love-thy-rocket-more-than-thy-female.jpg)
 
-Love thy rocket more than thy female
-
+### The rocket can be used as a weapon
 ![The rocket can be used as a weapon](gallery/08-the-rocket-can-be-used-as-a-weapon.jpg)
 
-The rocket can be used as a weapon
-
+### The team holding the rocket before launch
 ![The team holding the rocket before launch](gallery/09-the-team-holding-the-rocket-before-launch.jpg)
 
-The team holding the rocket before launch
 
 ## Launch Pad
+### Rocket sitting on launch pad, ignition igniting spring grass
 ![Rocket sitting on launch pad, ignition igniting spring grass](gallery/10-rocket-sitting-on-launch-pad-ignition-igniting-spring-grass.jpg)
 
-Rocket sitting on launch pad, ignition igniting spring grass
-
+### Igniter-man watching rocket take off, leaving smoke trail
 ![Igniter watching rocket take off, leaving smoke trail](gallery/11-ignoter-watching-rocket-take-off-leaving-smoke-trail.jpg)
 
-Igniter watching rocket take off, leaving smoke trail
 
 ## Recovery
+### Bhuvan has located and recovered the rocket, ring module has disappeared
 ![Bhuvan has located and recovered the rocket, ring module has disappeared](gallery/12-bhuvan-has-located-and-recovered-the-rocket-ring-module-has-disappeared.jpg)
 
-Bhuvan has located and recovered the rocket, ring module has disappeared
-
+### The team examining the recovered rocket with nose fractured during touchdown
 ![The team examining the recovered rocket with nose fractured during touchdown](gallery/13-the-team-examining-the-recovered-rocket-with-nose-fractured-during-touchdown.jpg)
 
-The team examining the recovered rocket with nose fractured during touchdown
-
+### Kafi giving speech about launch
 ![Kafi giving speech about launch](gallery/14-kafi-giving-speech-about-launch.jpg)
 
-Kafi giving speech about launch
+
